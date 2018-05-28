@@ -7,9 +7,8 @@ def actor
 end
 
 def monopoly
-	monopoly = {:railroads => {
-	              :pieces => 4
-	  } 
+	monopoly = {:railroads => {:pieces => 4},
+	
 	}
 end
 
